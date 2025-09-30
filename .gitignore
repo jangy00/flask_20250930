@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 .idea/
 .venv/
 __pycache__/
+=======
+scss/
+>>>>>>> 1703dc8 (Apply .gitignore)
