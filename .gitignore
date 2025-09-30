@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/
 .venv/
 __pycache__/
 =======
 scss/
 >>>>>>> 1703dc8 (Apply .gitignore)
+=======
+.idea/
+.venv/
+__pycashe__/
+
+>>>>>>> 8c43cfb (20250930 .gitignore)
