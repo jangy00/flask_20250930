@@ -9,6 +9,6 @@ scss/
 =======
 .idea/
 .venv/
-__pycashe__/
+__pycache__/
 
 >>>>>>> 8c43cfb (20250930 .gitignore)
